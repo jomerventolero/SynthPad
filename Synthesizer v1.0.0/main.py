@@ -1,6 +1,6 @@
 '''
-	Author: Oreki Houtaro
-	Email: orekihoutaro1218@gmail.com
+	Author: Jomer Augustin Ventolero
+	Email: orekihoutaro1218@gmail.com / hiroventolero@gmail.com
 '''
 import pygame as pygame
 from sys import exit
